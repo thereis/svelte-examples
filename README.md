@@ -2,7 +2,9 @@
 
 In this repository you'll check some examples exploring the features from Svelte.
 
-## Demo [tightfisted-wheel.surge.sh](https://tightfisted-wheel.surge.sh)
+## Demo
+
+[tightfisted-wheel.surge.sh](https://tightfisted-wheel.surge.sh)
 
 # svelte app
 
