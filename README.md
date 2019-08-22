@@ -4,6 +4,7 @@ In this repository you'll check some examples exploring the features from Svelte
 
 ## Demo
 
+[Get started with Svelte!](https://medium.com/@dev_reis/get-started-with-svelte-3-a82413f71ad2)
 [tightfisted-wheel.surge.sh](https://tightfisted-wheel.surge.sh)
 
 # svelte app
